@@ -2,7 +2,6 @@
 %  Optimizes 2-stage rocket design for maximum payload fraction
 %  using the Tsiolkovsky rocket equation and staging analysis
 %
-
 clc; clear; close all;
 
 %% 1. USER INPUT 
